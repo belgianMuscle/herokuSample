@@ -1,7 +1,7 @@
-#Heroku Starter Project
+# Heroku Starter Project
 
-##Introduction
+## Introduction
 This repository contains the starter project for learning how to deploy on Heroku. 
 
-##In Progress
+## In Progress
 More documentation will be added soon
